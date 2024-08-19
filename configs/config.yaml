@@ -1,0 +1,6 @@
+mysql:
+  host: "10.43.24.188"
+  port: 7028
+  user: "mg_ecom_rw"
+  database: "mg_ecom"
+  passwd: "***"
